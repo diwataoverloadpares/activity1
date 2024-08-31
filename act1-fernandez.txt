@@ -1,0 +1,6 @@
+NAME -<h1/h2/h3>
+RANDOM PEOPLE picture <img>
+BASIC INTRODUCTION <p>
+SKILLS <div>
+LINKS(GITHUB) <div> 
+ST DOMINIC
